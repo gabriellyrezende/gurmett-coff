@@ -1,19 +1,19 @@
 
 body{
-background-color:rgb(rgb(150, 32, 32), rgb(66, 100, 66), rgb(13, 13, 134))
+background-color:rgb(175, 83, 83);
 }
 
 
  h1{
-color:#ff0000 ;
-font-family: arial;
-background: ;
+color:#a11b1b ;
+font-family:verdana;
+background: black;
 }
 
 
 p{
-color: ;
+color: black ;
 font-family:arial;
-font-size: ;
-background: ;
+font: size 20px; ;
+background:white ;
 }
