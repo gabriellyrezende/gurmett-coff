@@ -21,3 +21,8 @@ background:rgba(179 153, 228, 0.938) ;
 #gurmett{
     width: 100%;
 }
+
+container{
+    width: 10%;
+    margin: 0 auto;
+}
